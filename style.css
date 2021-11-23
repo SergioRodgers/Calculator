@@ -1,0 +1,10 @@
+.btn{
+    padding: 30px;
+    
+}
+
+#output{
+    height: 200px;
+    border: 2px solid black;
+    font-size: 60px;
+}
